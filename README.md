@@ -1,1 +1,2 @@
 # odin-recipes
+<!-- Introductory Project 1 into HTML, using the knowledge taught about headings, paragraphs, listed/unlisted lists, and integrating images to our pages. Additionally, we redirect to each recipe and back to the main page.>
