@@ -1,0 +1,25 @@
+.page-title {
+    color: cadetblue;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 60px;
+    text-align: center;
+}
+
+.title-image {
+    display: block;
+    margin: auto;
+}
+
+.intro_para{
+    color:darkblue;
+    font-size: 20px;
+}
+
+.ini-page {
+    background-color: rgb(196, 255, 230);
+}
+.ini-list {
+    color: rgb(77, 193, 213);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
