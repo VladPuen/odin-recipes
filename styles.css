@@ -1,3 +1,4 @@
+
 .page-title {
     color: cadetblue;
     font-family:'Courier New', Courier, monospace;
@@ -22,4 +23,18 @@
     color: rgb(77, 193, 213);
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 18px;
+}
+
+.recip_list {
+    color:sienna;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+}
+
+.step_list {
+    font-size: 16px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style:italic;
+    background-color:white;
+    
 }
